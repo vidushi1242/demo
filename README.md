@@ -1,5 +1,5 @@
 # demo
-Just for the demo
+Just for practice
 <br>
 Author - Vidushi
 
